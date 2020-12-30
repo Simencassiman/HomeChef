@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:andndroid="http://schemas.android.com/apk/res/android"
+    andndroid:shape="line">
+    <stroke andndroid:color="@color/colorPrimaryDark"
+        andndroid:width="2dp"/>
+
+    <solid andndroid:color="#00FFFFFF"/>
+
+    <size andndroid:height="15dp"
+        andndroid:width="15dp"/>
+
+</shape>

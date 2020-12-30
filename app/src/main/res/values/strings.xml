@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Home Chef</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Menu -->
+    <string name="signin_menu">Sign In</string>
+    <string name="signout_menu">Sign Out</string>
+
+    <string name="home">Home</string>
+    <string name="recipes">Recipes</string>
+    <string name="add_recipe">Add recipe</string>
+    <string name="favorites">Favorites</string>
+
+    <string name="save">Save</string>
+    <string name="publish">Publish</string>
+    <string name="edit">Edit</string>
+
+    <string name="delete">Delete</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="add_to_list">Add to list</string>
+    <string name="add_to_shopping_list">Add to shopping list</string>
+    <string name="create">Create</string>
+
+
+    <!-- Fragments -->
+    <string name="hello_home">Hello home</string>
+    <string name="hello_list">Hello list</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="amount">Amount</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="loading">Loading…</string>
+    <string name="title">Title</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="description">Description</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="peopleCount">people</string>
+    <string name="no_recipe">No recipe</string>
+    <string name="delete_recipe">Delete recipe</string>
+    <string name="add_ingredient">Add Ingredient</string>
+    <string name="new_list">New List</string>
+    <string name="ok">Ok</string>
+    <string name="undo">Undo</string>
+    <string name="instructions">Instructions</string>
+    <string name="enter_tags_separate_by_comma">Enter tags (separate by comma)</string>
+    <string name="value">Value</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="vegan">Vegan</string>
+    <string name="vegetarian_lower">vegetarian</string>
+    <string name="vegan_lower">vegan</string>
+
+
+</resources>
